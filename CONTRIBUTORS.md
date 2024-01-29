@@ -120,6 +120,7 @@ video tutorials.
  - Rokas Kupstys
  - Konstantin Käfer
  - Eric Larson
+ - Guillaume Lebrun
  - Francis Lecavalier
  - Jong Won Lee
  - Robin Leffmann
@@ -192,6 +193,7 @@ video tutorials.
  - Stanislav Podgorskiy
  - Konstantin Podsvirov
  - Nathan Poirier
+ - Pokechu22
  - Alexandre Pretyman
  - Pablo Prietz
  - przemekmirek
